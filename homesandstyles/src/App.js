@@ -1,3 +1,4 @@
+/** @jsxImportSource @emotion/react */
 import { Outlet } from "react-router-dom";
 import { css, Global } from "@emotion/react";
 

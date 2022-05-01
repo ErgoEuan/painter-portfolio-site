@@ -1,9 +1,10 @@
 import { Link } from "react-router-dom";
+import Hero from "../../components/Hero"
 
 export default function index() {
     return (
         <div>
-            <h1>Index Page</h1>
+            <Hero/>
             <Link to="/contact">Contact</Link>
         </div>
     );
