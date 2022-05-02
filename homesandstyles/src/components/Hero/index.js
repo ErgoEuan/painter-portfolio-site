@@ -29,6 +29,7 @@ const heroStyle = css`
 
       p{
         margin: 0 0 0 5px;
+        color: #242732;
       }
       .small {
         font-size: 12px;
